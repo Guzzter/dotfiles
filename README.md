@@ -1,4 +1,4 @@
-# TylerLeonhardt's dotfiles
+# Guzzter's dotfiles
 
 The main point of this was to get GitHub Codespaces to work with PowerShell.
 
